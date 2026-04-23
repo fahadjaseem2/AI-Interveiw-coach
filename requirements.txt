@@ -1,0 +1,6 @@
+sounddevice
+scipy
+faster-whisper
+langchain
+langchain-ollama
+streamlit
